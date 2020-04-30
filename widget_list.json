@@ -8,27 +8,19 @@
     "imgUrl": "https://cdn.dribbble.com/assets/new_pro/media/img/intro/4-d4ad46f5ce9eb674df32ae66dc858d7ecb48419e000af2b743f95b12464dbbe3.jpg"
   },
   {
-    "name": "fsuper",
-    "showName": "FSuper",
+    "name": "fbutton",
+    "showName": "FButton",
     "author": "CoorChice",
     "authorHomePage": "https://github.com/chenBingX",
     "avatarUrl": "https://cdn.dribbble.com/users/1047455/avatars/small/fd251b6a71360896bee0e87d11d7868f.png?1505553932",
     "imgUrl": "https://cdn.dribbble.com/users/1150809/screenshots/10871409/media/cb6f2af240ff6ba626bd53bca7d4b95c.png"
   },
   {
-    "name": "fsuper",
-    "showName": "FSuper",
+    "name": "fswitch",
+    "showName": "FSwitch",
     "author": "CoorChice",
     "authorHomePage": "https://github.com/chenBingX",
     "avatarUrl": "https://cdn.dribbble.com/users/3809802/avatars/small/5f26b4c389dd16c57b862fe684823f29.png?1574127446",
     "imgUrl": "https://cdn.dribbble.com/users/708421/screenshots/10864495/media/c1c950f71e87256b9adb17202677c4f7.png"
-  },
-  {
-    "name": "fsuper",
-    "showName": "FSuper",
-    "author": "CoorChice",
-    "authorHomePage": "https://github.com/chenBingX",
-    "avatarUrl": "https://cdn.dribbble.com/users/303555/avatars/small/23662b5334fc8f4d6ec30be1c82a7626.png?1484888785",
-    "imgUrl": "https://cdn.dribbble.com/users/303555/screenshots/10842484/media/5e1e01139219e9845a929b0bbf00ff7f.jpg"
   }
 ]
